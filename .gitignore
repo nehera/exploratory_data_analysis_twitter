@@ -2,10 +2,11 @@
 /code/00_Twitter_AIS_keys.R
 
 # exclude everything
-data/*
+data/raw/*
+data/tidy/*
 
 # exception to the rule
-!*/data/tidy/AIS_tweet_ids.csv
+!data/tidy/AIS_tweet_ids.csv
 
 # History files
 .Rhistory
