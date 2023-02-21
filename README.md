@@ -104,6 +104,6 @@ Analysis is not worthwhile if results are not shared/ acted upon. [Here's my pre
 
 ["The MnDRIVE Human in the Data Fellowship Program is a graduate student summer fellowship of $7,000 to fund research on the humanistic implications of data and its use in one of five MnDRIVE areas of concentration: robotics, global food, environment, brain conditions, or cancer clinical trials."](https://ias.umn.edu/opportunities/human-data-mndrive-fellowship-program). The program is co-sponsored by the UMN's Institute for Advanced Study, Digital Arts, Sciences, & Humanities Program, and Research Computing. 
 
-A biostatistics PhD student at the UMN at the time of writing, I am grateful for the opportunity I had to explore humanistic themes and aggregate/ develop this repository of R code that might prove useful to another graduate student/ researcher.
+A biostatistics PhD student at the UMN at the time of writing, I am grateful for the opportunity as a 2022 Human in the Data Fellow to explore humanistic themes and aggregate/ develop this repository of R code that might prove useful to another graduate student/ researcher.
 
 
