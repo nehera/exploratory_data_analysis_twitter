@@ -5,7 +5,7 @@
 data/*
 
 # exception to the rule
-# !data/tidy/AIS_tweet_ids.csv
+!data/tidy/AIS_tweet_ids.csv
 
 # History files
 .Rhistory
