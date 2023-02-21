@@ -2,14 +2,6 @@
 
 This repository includes code for performing an Exploratory Data Analysis (EDA) of Twitter data with Aquatic Invasive Species (AIS) as a case study. The motivation for this repository is to share my learnings from my summer as a Human in the Data fellow in 2022 during which I learned with researchers at the University of Minnesota (UMN) to evaluate Twitter as a potential data source for understanding AIS management in the United States and personally better navigate the immense and growing amounts of digital data. 
 
-## About the Fellowship
-
-["MnDRIVE—Minnesota’s Discovery, Research, and InnoVation Economy—is a partnership between the University of Minnesota and the State of Minnesota that aligns areas of research strength with the state’s key and emerging industries to address grand challenges."](https://research.umn.edu/about-us/initiatives/mndrive).
-
-["The MnDRIVE Human in the Data Fellowship Program is a graduate student summer fellowship of $7,000 to fund research on the humanistic implications of data and its use in one of five MnDRIVE areas of concentration: robotics, global food, environment, brain conditions, or cancer clinical trials."](https://ias.umn.edu/opportunities/human-data-mndrive-fellowship-program). The program is co-sponsored by the UMN's Institute for Advanced Study, Digital Arts, Sciences, & Humanities Program, and Research Computing. 
-
-A biostatistics PhD student at the UMN at the time of writing, I am grateful for the opportunity I had to explore humanistic themes and aggregate/ develop this repository of R code that might prove useful to another graduate student/ researcher.
-
 ## Step 0. Getting Started
 
 If you are a graduate student/ researcher afilliated with an academic institution, good news! You can get academic access to the Twitter API at no-cost. [Apply for academic access to the Twitter API here once you have a well-defined research objective](https://developer.twitter.com/en/products/twitter-api/academic-research). [To get you started, here's my application](https://docs.google.com/document/d/1akumrmMueqfQ5HurrFHizGhQx-VW9hj21zKLKv6fjPo/edit?usp=sharing) with all relevant information included. My project proposal was ambitious in hindsight... but putting my thoughts to paper shaped my eventual project products (this repository as one of them). 
@@ -105,4 +97,13 @@ Analysis is not worthwhile if results are not shared/ acted upon. [Here's my pre
 - Distinct communities of authors also exist.
 - Surveying stakeholders may aid in identification of additional data sources.
 - Personally, mental models can be useful for wayfinding through large amounts of data.
+
+## About the Fellowship
+
+["MnDRIVE—Minnesota’s Discovery, Research, and InnoVation Economy—is a partnership between the University of Minnesota and the State of Minnesota that aligns areas of research strength with the state’s key and emerging industries to address grand challenges."](https://research.umn.edu/about-us/initiatives/mndrive).
+
+["The MnDRIVE Human in the Data Fellowship Program is a graduate student summer fellowship of $7,000 to fund research on the humanistic implications of data and its use in one of five MnDRIVE areas of concentration: robotics, global food, environment, brain conditions, or cancer clinical trials."](https://ias.umn.edu/opportunities/human-data-mndrive-fellowship-program). The program is co-sponsored by the UMN's Institute for Advanced Study, Digital Arts, Sciences, & Humanities Program, and Research Computing. 
+
+A biostatistics PhD student at the UMN at the time of writing, I am grateful for the opportunity I had to explore humanistic themes and aggregate/ develop this repository of R code that might prove useful to another graduate student/ researcher.
+
 
